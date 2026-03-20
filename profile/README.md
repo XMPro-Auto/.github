@@ -1,6 +1,6 @@
-# XMPro-Auto
+# XMPro
 
-Welcome to the XMPro-Auto GitHub organisation.
+Welcome to XMPro GitHub.
 
 ## Documentation
 

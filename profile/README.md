@@ -4,7 +4,7 @@ Welcome to XMPro GitHub.
 
 ## Need Access?
 
-If you need access to XMPro repositories, visit [xm-access-requests](https://github.com/XMPro-Auto/xm-access-requests) to submit a request.
+If you need access to XMPro repositories, request access via the [XMPro Support Portal](https://xmpro.na1.teamsupport.com/login/user). An admin will add you to the appropriate GitHub team.
 
 ## Documentation
 
